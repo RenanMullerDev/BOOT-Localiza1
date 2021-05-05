@@ -1,0 +1,26 @@
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Discos.exe
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Discos.deps.json
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Discos.runtimeconfig.json
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Discos.runtimeconfig.dev.json
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Discos.dll
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Discos.pdb
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Discos.csprojAssemblyReference.cache
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Discos.AssemblyInfoInputs.cache
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Discos.AssemblyInfo.cs
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Discos.csproj.CoreCompileInputs.cache
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Discos.dll
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Discos.pdb
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Discos.genruntimeconfig.cache
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\bin\Debug\netcoreapp3.1\DIO.Discos.exe
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\bin\Debug\netcoreapp3.1\DIO.Discos.deps.json
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\bin\Debug\netcoreapp3.1\DIO.Discos.runtimeconfig.json
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\bin\Debug\netcoreapp3.1\DIO.Discos.runtimeconfig.dev.json
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\bin\Debug\netcoreapp3.1\DIO.Discos.dll
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\bin\Debug\netcoreapp3.1\DIO.Discos.pdb
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\obj\Debug\netcoreapp3.1\DIO.Discos.csprojAssemblyReference.cache
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\obj\Debug\netcoreapp3.1\DIO.Discos.AssemblyInfoInputs.cache
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\obj\Debug\netcoreapp3.1\DIO.Discos.AssemblyInfo.cs
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\obj\Debug\netcoreapp3.1\DIO.Discos.csproj.CoreCompileInputs.cache
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\obj\Debug\netcoreapp3.1\DIO.Discos.dll
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\obj\Debug\netcoreapp3.1\DIO.Discos.pdb
+C:\Workspace\Series\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\Cadastro de Discos-master\obj\Debug\netcoreapp3.1\DIO.Discos.genruntimeconfig.cache

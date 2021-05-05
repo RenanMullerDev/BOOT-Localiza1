@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3IKH1ADSZpEcHk7hfqGEA0QYjF1o2sIWnqufhase4J4+Peuedspt2F9wruUrBlFkoGaxK6cWoFjUrFdJBkVlJA==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\Series\\4d894e9f-e729-4e13-bd89-21094aec4415 (1)\\Cadastro de Discos-master\\DIO.Discos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\renan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
